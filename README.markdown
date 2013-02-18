@@ -1,10 +1,16 @@
 OpensoftEplBundle
 ==================
 
+[![Build Status](https://travis-ci.org/opensoft/OpensoftEplBundle.png?branch=master)](https://travis-ci.org/opensoft/OpensoftEplBundle)
+
 Installation
 ============
 
 ### Add this bundle to your project
+
+**Using the composer**
+
+```php composer.phar require opensoft/opensoft-epl-bundle```
 
 **Using the vendors script**
 
