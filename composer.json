@@ -14,7 +14,7 @@
     "minimum-stability": "stable",
     "require": {
         "php": ">=5.3.3",
-        "symfony/framework-bundle": ">=2.0,<2.2-dev",
+        "symfony/framework-bundle": ">=2.0,<=2.3.x-dev",
         "opensoft/epl": ">=1.0.0"
     },
     "autoload": {
